@@ -1,0 +1,3 @@
+C:/Users/Diego Paesani/Downloads/Proyecto2LorenzoDiego__2-master/Proyecto2LorenzoDiego__2-master/cmake-build-debug/CMakeFiles/Proyecto2LorenzoDiego__2.dir
+C:/Users/Diego Paesani/Downloads/Proyecto2LorenzoDiego__2-master/Proyecto2LorenzoDiego__2-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Diego Paesani/Downloads/Proyecto2LorenzoDiego__2-master/Proyecto2LorenzoDiego__2-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
